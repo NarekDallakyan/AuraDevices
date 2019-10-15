@@ -1,9 +1,12 @@
 package util;
 
+/**
+ * @author Narek Dallakyan
+ */
 public class NumberUtils {
 
     /**
-     * This method when to return false, then it is necessary number reset.
+     * It's necessary to reset the number, when the method return false value.
      * @param number -> original number
      * @param maxValue -> maximum number
      */

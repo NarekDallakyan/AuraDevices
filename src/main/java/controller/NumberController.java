@@ -3,6 +3,12 @@ package controller;
 import increment.interfaces.INumber;
 import increment.impl.NumberImpl;
 
+/**
+ * This is the example to work with {@link INumber} interface functionality,
+ * that implemented {@link NumberImpl} class.
+ *
+ * @author Narek Dallakyan
+ */
 public class NumberController {
     private INumber iNumber = new NumberImpl();
 

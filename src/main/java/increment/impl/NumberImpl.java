@@ -6,7 +6,7 @@ import util.NumberUtils;
 import java.util.concurrent.atomic.AtomicInteger;
 
 /**
- *
+ *@author Narek Dallakyan
  */
 public class NumberImpl implements INumber {
     private int maxValue;

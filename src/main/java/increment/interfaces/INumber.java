@@ -2,8 +2,8 @@ package increment.interfaces;
 
 /**
  *
- *   This Java Interface is intended to work on a number increment,
- *   getNumber and setMaxNumber functional for implement.
+ *   This Java Interface intend for implement the functionality of
+ *   getNumber, increment and setMaxNumber .
  *
  *   @author Narek Dallakyan
  */
