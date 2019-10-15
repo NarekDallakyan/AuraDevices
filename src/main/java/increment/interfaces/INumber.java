@@ -15,7 +15,7 @@ public interface INumber {
     int getNumber();
 
     /**
-     * when call increment method, increment number value
+     * Increment method it is desirable synchronized, because time MultiThreading be it all good.
      */
     void increment();
 
